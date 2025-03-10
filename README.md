@@ -1,2 +1,8 @@
-# TheatreCSM_LiveProject
-Theatre Rentals
+# Theatre CSM Live Project: Rentals
+
+## Introduction
+
+## Back-End Development
+
+## Front-End Development
+
